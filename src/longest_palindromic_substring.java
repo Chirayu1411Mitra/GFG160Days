@@ -18,7 +18,7 @@ public class longest_palindromic_substring {
     }
 
     public static void main(String[] args) {
-        String s="abc";
+        String s="abcc";
         int min=minInsertions(s);
         System.out.println(min);
     }
